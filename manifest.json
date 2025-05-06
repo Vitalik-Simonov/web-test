@@ -1,0 +1,16 @@
+{
+    "name": "Telegram Clicker",
+    "short_name": "Clicker",
+    "description": "Простая игра-кликер для Telegram",
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#2481cc",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
